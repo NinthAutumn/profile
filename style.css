@@ -78,6 +78,14 @@ li{
   font-size:25px;
 }
 
+.fa-linkedin:before{
+  font-size:25px;
+}
+
+.fa-twitter:before{
+  font-size:25px;
+}
+
 @media (max-width: 960px) {
   /* For a screen < 960px, this CSS will be read */
   .container {
