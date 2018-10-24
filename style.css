@@ -85,6 +85,20 @@ li{
   font-size:25px;
 }
 
+#button {
+  background: red;
+  margin:0 30%;
+  padding:10px;
+  font-weight: 1000;
+  color:white;
+}
+
+#button:hover{
+  background: green;
+  color:white;
+}
+
+
 @media (max-width: 960px) {
   /* For a screen < 960px, this CSS will be read */
   .container {
