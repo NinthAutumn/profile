@@ -60,7 +60,7 @@ li{
   background: white;
   border:rgb(0,0,0,0.1);
   border-radius: 4px;
-  box-shadow:2px grey;
+  box-shadow:4px black;
   padding:20px;
   margin-bottom:20px;
 }
