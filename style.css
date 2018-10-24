@@ -1,6 +1,7 @@
 body{
   font-family: 'Open Sans', sans-serif;
-  background-color:#EBEBEB;
+  background: #d65b9e;
+  background: linear-gradient(45deg, #d65b9e 1%,#f699cb 22%,#ffacd9 51%,#f699cb 83%,#d65b9e 100%);
   color:#7d7d7d;
   font-size:15px;
   line-height: 20px;
@@ -13,7 +14,7 @@ h1,h2,h3{
 }
 
 a{
-  color:green;
+  color:lightblue;
   text-decoration:none;
 
 }
@@ -94,7 +95,7 @@ li{
 }
 
 #button:hover{
-  background: green;
+  background: lightblue;
   color:white;
 }
 
@@ -117,3 +118,4 @@ li{
     width: 300px;
   }
 }
+
